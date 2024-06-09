@@ -1,0 +1,126 @@
+  button {
+    background-color: #23332d; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.adverb {
+    background: #c4e3f3;
+  }
+
+  .qualifier {
+    background: #c4e3f3;
+  }
+
+  .passive {
+    background: #c4ed9d;
+  }
+
+  .complex {
+    background: #e3b7e8;
+  }
+
+  .hardSentence {
+    background: #f7ecb5;
+  }
+
+  .veryHardSentence {
+    background: #e4b9b9;
+  }
+
+  #text-area {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  #output {
+    width: 100%;
+    font-size: 18px;
+  }
+
+  #left {
+    width: 75%;
+    position: absolute;
+    left: 2.5%;
+  }
+
+  #right {
+    width: 20%;
+    position: absolute;
+    right: 2.5%;
+  }
+
+
+
+  .counter {
+    position: relative;
+    padding: 5% 5%;
+    margin: 5% 0 0 5%;
+    border-radius: 8px;
+  }
+
+  body {
+    margin: 2em;
+    height: 100%;
+  }
+
+   footer {
+      display: flex;
+      position:absolute;
+      bottom:0;
+      width:100%;
+      height: 60px;
+  }
+
+  table{
+      margin: 2em;
+      border-collapse:collapse;
+      margin-top: 2%;
+
+  }
+
+  th{
+      padding-right: 3em;
+  }
+
+  tr:nth-child(even){
+      background-color: lightblue;
+  }
+
+  td{
+      padding: .5em;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
